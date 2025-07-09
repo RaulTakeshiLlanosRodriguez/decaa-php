@@ -64,10 +64,10 @@
       { "rol": "INTEGRANTE", "nombre": "Mg. Milagritos Elizabeth Gutierrez Cruz" },
       { "rol": "INTEGRANTE", "nombre": "Ms. Julio Cesar Cabrera Gonzales" },
       { "rol": "INTEGRANTE", "nombre": "Ms. Eduardo Montenegro Vivar" },
-      { "rol": "COLABORADOR", "nombre": "Obed Leyva Arevalo" },
-      { "rol": "COLABORADOR", "nombre": "Adrian Bolaños Cortes" },
-      { "rol": "COLABORADOR", "nombre": "Giner Oscar Hernandez Olivera" },
-      { "rol": "COLABORADOR", "nombre": "Bibian Antonella Salas Campos" }
+      { "rol": "INTEGRANTE", "nombre": "Obed Leyva Arevalo" },
+      { "rol": "INTEGRANTE", "nombre": "Adrian Bolaños Cortes" },
+      { "rol": "INTEGRANTE", "nombre": "Giner Oscar Hernandez Olivera" },
+      { "rol": "INTEGRANTE", "nombre": "Bibian Antonella Salas Campos" }
     ]
   },
   {
@@ -85,7 +85,7 @@
       { "rol": "EXTERNO", "nombre": "Dr. Jorge Luis Arévalo Daza" },
       { "rol": "EXTERNO", "nombre": "Dr. Johnny Prudencio Nahui Ortiz" },
       { "rol": "EGRESADO", "nombre": "Ms. Rubén Adrián Figueroa León" },
-      { "rol": "EXTERNO", "nombre": "M.Sc. Jhonny Jasson Silva Rodríguez" }
+      { "rol": "EGRESADO", "nombre": "M.Sc. Jhonny Jasson Silva Rodríguez" }
     ]
   },
   {

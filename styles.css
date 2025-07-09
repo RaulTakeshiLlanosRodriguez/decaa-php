@@ -680,9 +680,6 @@ circle:nth-child(1) {
   vertical-align: top;
 }
 
-
-
-
 /*seccion responsive*/
 @media (max-width: 768px) {
   .menu-toggle {
