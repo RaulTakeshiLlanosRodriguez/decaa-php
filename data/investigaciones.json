@@ -28,7 +28,7 @@
     "anio": 2024,
     "titulo": "CRECIENDO CON AUTONOMÍA: IMPACTO DE LA ENSEÑANZA NO DIRECTIVA EN LA PERSONALIDAD INFANTIL.",
     "carrera": "Educación Inicial",
-    "enlace": "https://dialnet.unirioja.es/servlet/articulo?codigo=9854197",
+    "enlace": "https://isbn.bnp.gob.pe/catalogo.php?mode=detalle&nt=150697",
     "tipo":"libro"
   },
   {
@@ -36,7 +36,7 @@
     "anio": 2024,
     "titulo": "FORTALECIENDO LA INTELIGENCIA EMOCIONAL ESTRATEGIA DE TUTORÍA EN EDUCACIÓN UNIVERSITARIA.",
     "carrera": "Educación Inicial",
-    "enlace": "https://dialnet.unirioja.es/servlet/articulo?codigo=9854193",
+    "enlace": "https://isbn.bnp.gob.pe/catalogo.php?mode=detalle&nt=149802",
     "tipo":"articulo"
   },
   {
@@ -44,7 +44,7 @@
     "anio": 2024,
     "titulo": "TEJIENDO IDENTIDADES. UN VIAJE A LA ESENCIA DEL DOCENTE DE EDUCACIÓN BÁSICA EN EL PERÚ.",
     "carrera": "Educación Inicial",
-    "enlace": "https://dialnet.unirioja.es/servlet/articulo?codigo=9854195",
+    "enlace": "https://isbn.bnp.gob.pe/catalogo.php?mode=detalle&nt=149805",
     "tipo":"libro"
   },
   {
@@ -70,5 +70,45 @@
     "carrera": "Educación Inicial",
     "enlace": "https://ve.scielo.org/pdf/crihect/v10n18/2542-3029-crihect-10-18-4.pdf",
     "tipo":"articulo"
+  },
+  {
+    "docente": "Dra. Annie Rosa Soto Zavaleta",
+    "anio": 2024,
+    "titulo": "CRECIENDO CON AUTONOMÍA: IMPACTO DE LA ENSEÑANZA NO DIRECTIVA EN LA PERSONALIDAD INFANTIL.",
+    "carrera": "Educación Inicial",
+    "enlace": "https://isbn.bnp.gob.pe/catalogo.php?mode=detalle&nt=150697",
+    "tipo":"libro"
+  },
+  {
+    "docente": "Dra. Annie Rosa Soto Zavaleta",
+    "anio": 2024,
+    "titulo": "FORTALECIENDO LA INTELIGENCIA EMOCIONAL ESTRATEGIA DE TUTORÍA EN EDUCACIÓN UNIVERSITARIA.",
+    "carrera": "Educación Inicial",
+    "enlace": "https://isbn.bnp.gob.pe/catalogo.php?mode=detalle&nt=149802",
+    "tipo":"articulo"
+  },
+  {
+    "docente": "Dra. Mary Juana Alarcón Neira",
+    "anio": 2024,
+    "titulo": "CRECIENDO CON AUTONOMÍA: IMPACTO DE LA ENSEÑANZA NO DIRECTIVA EN LA PERSONALIDAD INFANTIL.",
+    "carrera": "Educación Inicial",
+    "enlace": "https://isbn.bnp.gob.pe/catalogo.php?mode=detalle&nt=150697",
+    "tipo":"libro"
+  },
+  {
+    "docente": "Dra. Mary Juana Alarcón Neira",
+    "anio": 2024,
+    "titulo": "FORTALECIENDO LA INTELIGENCIA EMOCIONAL ESTRATEGIA DE TUTORÍA EN EDUCACIÓN UNIVERSITARIA.",
+    "carrera": "Educación Inicial",
+    "enlace": "https://isbn.bnp.gob.pe/catalogo.php?mode=detalle&nt=149802",
+    "tipo":"articulo"
+  },
+  {
+    "docente": "Dra. Mary Juana Alarcón Neira",
+    "anio": 2024,
+    "titulo": "TEJIENDO IDENTIDADES. UN VIAJE A LA ESENCIA DEL DOCENTE DE EDUCACIÓN BÁSICA EN EL PERÚ.",
+    "carrera": "Educación Inicial",
+    "enlace": "https://isbn.bnp.gob.pe/catalogo.php?mode=detalle&nt=149805",
+    "tipo":"libro"
   }
 ]

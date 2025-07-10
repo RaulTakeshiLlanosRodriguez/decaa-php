@@ -135,7 +135,7 @@ body {
 
 .indicadores {
   text-align: center;
-  padding: 40px 20px;
+  padding: 20px;
   font-family: "Poppins", sans-serif;
 }
 
@@ -534,6 +534,14 @@ circle:nth-child(1) {
   font-weight: 500;
 }
 
+.contenido .enlace-oficinas{
+  color: black;
+  text-decoration: none;
+  font-weight: 200;
+}
+
+
+
 /*seccion principal slider imagenes*/
 
 .slider-solo-imagenes {
@@ -736,7 +744,7 @@ circle:nth-child(1) {
   .submenu {
     display: none !important;
     background-color: #bb213a;
-    width: 100%;
+    width: 95%;
     position: static;
     padding-left: 10px;
   }

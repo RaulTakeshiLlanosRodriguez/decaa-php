@@ -74,18 +74,18 @@
     "carrera": "Ingeniería Mecánica",
     "miembros": [
       { "rol": "PRESIDENTE", "nombre": "Ms. Rusber Alberto Risco Ojeda" },
-      { "rol": "INTEGRANTE", "nombre": "Ms. Nelver Javier Escalante Espinoza" },
+      { "rol": "SECRETARIO", "nombre": "Dr. Serapio Agapito Quillos Ruiz" },
       { "rol": "INTEGRANTE", "nombre": "Mg. Leonidas Lucas Yauri García" },
       { "rol": "INTEGRANTE", "nombre": "Ms. Arquímedes Iparraguirre Lozano" },
       { "rol": "INTEGRANTE", "nombre": "Ms. Luis Carlos Calderón Rodríguez" },
       { "rol": "INTEGRANTE", "nombre": "Ms. Fredesbildo Fidel Ríos Noriega" },
       { "rol": "INTEGRANTE", "nombre": "Mg. Adolfo Víctor Huisa Mendoza" },
       { "rol": "INTEGRANTE", "nombre": "Mg. Ramiro David Carranza Martínez" },
-      { "rol": "INTEGRANTE", "nombre": "Dr. Serapio Agapito Quillos Ruiz" },
+      { "rol": "INTEGRANTE", "nombre": "Ms. Nelver Javier Escalante Espinoza" },
       { "rol": "EXTERNO", "nombre": "Dr. Jorge Luis Arévalo Daza" },
       { "rol": "EXTERNO", "nombre": "Dr. Johnny Prudencio Nahui Ortiz" },
       { "rol": "EGRESADO", "nombre": "Ms. Rubén Adrián Figueroa León" },
-      { "rol": "EGRESADO", "nombre": "M.Sc. Jhonny Jasson Silva Rodríguez" }
+      { "rol": "EGRESADO", "nombre": "Ing. Jossery Jafet Zorilla Saenz" }
     ]
   },
   {
@@ -208,20 +208,17 @@
     "carrera": "Ingeniería en Energía",
     "miembros": [
       { "rol": "PRESIDENTE", "nombre": "Ms. Julio Hipólito Néstor Escate Ravello" },
-      { "rol": "SECRETARIO", "nombre": "Ms. Robert Fabián Guevara Chinchayán" },
+      { "rol": "SECRETARIO", "nombre": "Dr. Gualberto Antenor Mariños Castillo" },
       { "rol": "SUBSECRETARIO", "nombre": "Dr. Denis Javier Arangurí Cayetano" },
       { "rol": "INTEGRANTE", "nombre": "Dr. Gilmer Juan Luján Guevara" },
+      { "rol": "INTEGRANTE", "nombre": "Dr. Robert Fabian Guevara Chinchayan" },
       { "rol": "INTEGRANTE", "nombre": "Mg. Hugo Rolando Calderón Torres" },
       { "rol": "INTEGRANTE", "nombre": "Ms. Amancio Ramiro Rojas Flores" },
       { "rol": "INTEGRANTE", "nombre": "Dr. Edgar Paz Pérez" },
       { "rol": "INTEGRANTE", "nombre": "Dr. Segundo Nicolás Diestra Sánchez" },
       { "rol": "INTEGRANTE", "nombre": "Ms. Roberto Carlos Chucuya Huallpachoque" },
       { "rol": "INTEGRANTE", "nombre": "Ms. Cesar Luis López Aguilar" },
-      { "rol": "INTEGRANTE", "nombre": "Ms. Oscar Fernando Pérez Pinedo" },
-      { "rol": "INTEGRANTE", "nombre": "Ms. Ricardo Antonio Cedrón Maguiña" },
-      { "rol": "INTEGRANTE", "nombre": "Ms. Carlos Macedonio Montañez Montenegro" },
-      { "rol": "INTEGRANTE", "nombre": "Ms. Germán Raúl Chumpitaz Ayala" },
-      { "rol": "INTEGRANTE", "nombre": "Ing. Neil Anthony Velásquez Díaz" }
+      { "rol": "INTEGRANTE", "nombre": "Ms. Oscar Fernando Pérez Pinedo" }
     ]
   },
   {
@@ -234,6 +231,18 @@
       { "rol": "INTEGRANTE", "nombre": "Dr. Saúl Edgar Paredes Gavidia" },
       { "rol": "INTEGRANTE", "nombre": "Est. Leidy del Rocio Caballero Corzo (V Ciclo)" },
       { "rol": "INTEGRANTE", "nombre": "Est. Andy Jefferson Comesaña Pereda (VII Ciclo)" }
+    ]
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "miembros": [
+      { "rol": "PRESIDENTE", "nombre": "Dr. Abner Itamar León Bobadilla" },
+      { "rol": "INTEGRANTE", "nombre": "Ms. Julio César Rivasplata Díaz" },
+      { "rol": "INTEGRANTE", "nombre": "Ms. Janet Verónica Saavedra Vera" },
+      { "rol": "INTEGRANTE", "nombre": "Ms. Luz Esther Álvarez Asto" },
+      { "rol": "INTEGRANTE", "nombre": "Ms. Felipe Eleuterio Villavicencio González" },
+      { "rol": "INTEGRANTE", "nombre": "Ms. María Jesús Estela Díaz Hernández" },
+      { "rol": "INTEGRANTE", "nombre": "Ms. Edgar Gustavo Sparrow Alamo" }
     ]
   }
 ]

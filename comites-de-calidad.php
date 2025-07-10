@@ -8,6 +8,7 @@
     <article class="contenido-comites">
         <div id="comites" class="contenido-comite-item active">
             <h2 class="titulo-comites">Comités de Calidad de Programas de Estudio</h2>
+            <p>Designación de equipos responsables de autoevaluación y mejora continua en todas las escuelas.</p>
             <div id="comites-container"></div>
         </div>
     </article>
