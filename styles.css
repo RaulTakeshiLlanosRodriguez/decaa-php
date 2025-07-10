@@ -269,7 +269,7 @@ circle:nth-child(1) {
 }
 
 .card:hover {
-  transform: translateY(-4px);
+  transform: translateY(-10px);
 }
 
 .card h3 {
