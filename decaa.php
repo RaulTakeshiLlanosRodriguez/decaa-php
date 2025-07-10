@@ -85,11 +85,11 @@
       <img src="./assets/DECAA organigrama.png" alt="Organigrama DECAA">
 
       <h4 class="titulo-oficina">Oficinas que conforman la DECAA</h4>
-      <ul>
-        <li><a class="enlace-oficinas" href="<?= $BASE_URL ?>/oseil.php">Oficina de Seguimiento al Egresado y de Inserción Laboral</a></li>
-        <li><a class="enlace-oficinas" href="<?= $BASE_URL ?>/ogc.php">Oficina de Gestión de Calidad</a></li>
-        <li><a class="enlace-oficinas" href="<?= $BASE_URL ?>/oaac.php">Oficina de Autoevaluación y Acreditación de la Calidad</a></li>
-        <li><a class="enlace-oficinas" href="<?= $BASE_URL ?>/olic.php">Oficina de Licenciamiento</a></li>
+      <ul class="lista-oficinas">
+        <li><a href="<?= $BASE_URL ?>/oseil.php"><i class="fas fa-user-graduate"></i>Oficina de Seguimiento al Egresado y de Inserción Laboral</a></li>
+        <li><a href="<?= $BASE_URL ?>/ogc.php"><i class="fas fa-tasks"></i>Oficina de Gestión de Calidad</a></li>
+        <li><a href="<?= $BASE_URL ?>/oaac.php"><i class="fas fa-search"></i>Oficina de Autoevaluación y Acreditación de la Calidad</a></li>
+        <li><a href="<?= $BASE_URL ?>/olic.php"><i class="fas fa-file-alt"></i>Oficina de Licenciamiento</a></li>
       </ul>
     </div>
   </article>
