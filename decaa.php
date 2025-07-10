@@ -11,7 +11,6 @@
     <div id="historia" class="contenido-item active">
       <div class="presentacion-container">
         <h2 class="titulo-decaa">Dirección de Evaluación de la Calidad Académica y Acreditación (DECAA)</h2>
-
         <div class="autoridad-decaa">
           <strong>Dra. Rommy Kelly Mas Sandoval</strong><br>
           <span>Directora (e) de la Dirección de Evaluación de la Calidad Académica y Acreditación</span>
@@ -67,8 +66,6 @@
             todos sus procesos, así como de los programas académicos de la UNS.</li>
           <li><i class="fas fa-check-circle"></i> Diseñar e implementar el sistema de autoevaluación, de las carreras
             profesionales, áreas académico-administrativas y administrativas de la UNS.</li>
-          <li><i class="fas fa-check-circle"></i> Implementar el Sistema de Gestión de Calidad Universitaria, de
-            acuerdo con los requisitos de la norma ISO 21001:2018.</li>
           <li><i class="fas fa-check-circle"></i> Coordinar y diseñar programas de sensibilización a nivel de
             autoridades, estudiantes, egresados, personal docente y personal administrativo en materia de Gestión de
             la Calidad Universitaria.</li>
@@ -81,7 +78,6 @@
           <li><i class="fas fa-check-circle"></i> Las demás que le asigne el Rectorado.</li>
         </ul>
       </div>
-
     </div>
 
     <div id="talento" class="contenido-item">
