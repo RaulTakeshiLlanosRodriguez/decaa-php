@@ -94,7 +94,7 @@ $publicaciones = $stmt->fetchAll();
                                         <input name="enlace" class="form-control mb-3" value="<?= htmlspecialchars($pub['enlace']) ?>" required>
                                     </div>
                                     <div class="modal-footer">
-                                        <button type="submit" class="btn btn-primary">Actualizar</button>
+                                        <button type="submit" class="btn btn-login">Actualizar</button>
                                     </div>
                                 </form>
                             </div>
@@ -132,7 +132,7 @@ $publicaciones = $stmt->fetchAll();
                         <input name="enlace" class="form-control mb-3" placeholder="URL del repositorio">
                     </div>
                     <div class="modal-footer">
-                        <button type="submit" class="btn btn-success">Guardar</button>
+                        <button type="submit" class="btn btn-login">Guardar</button>
                     </div>
                 </form>
             </div>
@@ -152,29 +152,28 @@ $publicaciones = $stmt->fetchAll();
         unset($_SESSION['tipo_mensaje']);
     endif;
     ?>
-    x
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
     <script>
-document.querySelectorAll('.btn-eliminar').forEach(btn => {
-  btn.addEventListener('click', function () {
-    const id = this.dataset.id;
-    Swal.fire({
-      title: '¿Estás seguro?',
-      text: "La publicación será dada de baja.",
-      icon: 'warning',
-      showCancelButton: true,
-      confirmButtonColor: '#d33',
-      cancelButtonColor: '#6c757d',
-      confirmButtonText: 'Sí, dar de baja',
-      cancelButtonText: 'Cancelar'
-    }).then((result) => {
-      if (result.isConfirmed) {
-        window.location.href = `baja.php?id=${id}`;
-      }
-    });
-  });
-});
-</script>
+        document.querySelectorAll('.btn-eliminar').forEach(btn => {
+            btn.addEventListener('click', function() {
+                const id = this.dataset.id;
+                Swal.fire({
+                    title: '¿Estás seguro?',
+                    text: "La publicación será dada de baja.",
+                    icon: 'warning',
+                    showCancelButton: true,
+                    confirmButtonColor: '#d33',
+                    cancelButtonColor: '#6c757d',
+                    confirmButtonText: 'Sí, dar de baja',
+                    cancelButtonText: 'Cancelar'
+                }).then((result) => {
+                    if (result.isConfirmed) {
+                        window.location.href = `baja.php?id=${id}`;
+                    }
+                });
+            });
+        });
+    </script>
 
 </body>
 

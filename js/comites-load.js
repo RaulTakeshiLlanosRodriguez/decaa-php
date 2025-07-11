@@ -1,5 +1,5 @@
 async function cargarComites() {
-  const res = await fetch(`${BASE_URL}/data/comites.json`);
+  const res = await fetch(`./data/comites.json`);
   const comites = await res.json();
   const container = document.getElementById('comites-container');
 

@@ -3,8 +3,8 @@ let paginaActual = 1;
 const publicacionesPorPagina = 5;
 
 async function cargarPublicaciones() {
-  //const res = await fetch(`${BASE_URL}/data/investigaciones.json`);
-  const res = await fetch(`${BASE_URL}/api/obtener-publicaciones.php`);
+  //const res = await fetch(`./data/investigaciones.json`);
+  const res = await fetch(`./api/obtener-publicaciones.php`);
   publicaciones = await res.json();
   poblarFiltroAnios();
   poblarFiltroCarreras();
