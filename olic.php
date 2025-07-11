@@ -13,21 +13,21 @@
     </div>
     <div>
         <h3>Funciones Generales</h3>
-        <ul class="funciones-lista">
-            <li><i class="fas fa-check-circle"></i> Evaluar la aplicación de los procesos de aseguramiento de la calidad universitaria y verificar el cumplimiento de metas de los indicadores de gestión de calidad de acuerdo a los requisitos establecidos por SUNEDU.</li>
-            <li><i class="fas fa-check-circle"></i> Fomentar una cultura de evaluación de la calidad en todos los ámbitos académicos y administrativos de la universidad.</li>
-            <li><i class="fas fa-check-circle"></i> Gestionar el proceso de licenciamiento de la universidad.</li>
-            <li><i class="fas fa-check-circle"></i> Recopilar la información y apoyar en la formulación y/o modificación de normas y procedimientos técnicos relativos a las condiciones básicas de calidad.</li>
-            <li><i class="fas fa-check-circle"></i> Revisar y/o estudiar documentos técnicos administrativos y evaluar los informes respectivos.</li>
-            <li><i class="fas fa-check-circle"></i> Sintetizar y facilitar información relativa a temas de aseguramiento de la calidad universitaria.</li>
-            <li><i class="fas fa-check-circle"></i> Mantener actualizados y organizados los medios de verificación, según indicadores, como estipula el modelo de licenciamiento institucional, de manera física y digital.</li>
-            <li><i class="fas fa-check-circle"></i> Realizar el levantamiento y seguimiento a las observaciones y/o recomendaciones estipuladas por SUNEDU.</li>
-            <li><i class="fas fa-check-circle"></i> Absolver consulta y emitir opinión técnica en el ámbito de su competencia.</li>
-            <li><i class="fas fa-check-circle"></i> Informar periódicamente a la Superintendencia Nacional de Educación Superior Universitaria (SUNEDU) sobre las actualizaciones de documentos y/o nuevas infraestructuras generada por las diversas áreas educativas de la institución.</li>
-            <li><i class="fas fa-check-circle"></i> Planificar, coordinar y controlar las peticiones realizadas por SUNEDU en aras del licenciamiento.</li>
-            <li><i class="fas fa-check-circle"></i> Coordinar con la Dirección de Licenciamiento de SUNEDU.</li>
-            <li><i class="fas fa-check-circle"></i> Otras que le asigne el director(a) del DECAA.</li>
-        </ul>
+        <div class="funciones-grid">
+            <div class="funcion-card"><i class="fas fa-check-circle icono"></i> <p>Evaluar la aplicación de los procesos de aseguramiento de la calidad universitaria y verificar el cumplimiento de metas de los indicadores de gestión de calidad de acuerdo a los requisitos establecidos por SUNEDU.</p></div>
+            <div class="funcion-card"><i class="fas fa-check-circle icono"></i> <p>Fomentar una cultura de evaluación de la calidad en todos los ámbitos académicos y administrativos de la universidad.</p></div>
+            <div class="funcion-card"><i class="fas fa-check-circle icono"></i> <p>Gestionar el proceso de licenciamiento de la universidad.</p></div>
+            <div class="funcion-card"><i class="fas fa-check-circle icono"></i> <p>Recopilar la información y apoyar en la formulación y/o modificación de normas y procedimientos técnicos relativos a las condiciones básicas de calidad.</p></div>
+            <div class="funcion-card"><i class="fas fa-check-circle icono"></i> <p>Revisar y/o estudiar documentos técnicos administrativos y evaluar los informes respectivos.</p></div>
+            <div class="funcion-card"><i class="fas fa-check-circle icono"></i> <p>Sintetizar y facilitar información relativa a temas de aseguramiento de la calidad universitaria.</p></div>
+            <div class="funcion-card"><i class="fas fa-check-circle icono"></i> <p>Mantener actualizados y organizados los medios de verificación, según indicadores, como estipula el modelo de licenciamiento institucional, de manera física y digital.</p></div>
+            <div class="funcion-card"><i class="fas fa-check-circle icono"></i> <p>Realizar el levantamiento y seguimiento a las observaciones y/o recomendaciones estipuladas por SUNEDU.</p></div>
+            <div class="funcion-card"><i class="fas fa-check-circle icono"></i> <p>Absolver consulta y emitir opinión técnica en el ámbito de su competencia.</p></div>
+            <div class="funcion-card"><i class="fas fa-check-circle icono"></i> <p>Informar periódicamente a la Superintendencia Nacional de Educación Superior Universitaria (SUNEDU) sobre las actualizaciones de documentos y/o nuevas infraestructuras generada por las diversas áreas educativas de la institución.</p></div>
+            <div class="funcion-card"><i class="fas fa-check-circle icono"></i> <p>Planificar, coordinar y controlar las peticiones realizadas por SUNEDU en aras del licenciamiento.</p></div>
+            <div class="funcion-card"><i class="fas fa-check-circle icono"></i> <p>Coordinar con la Dirección de Licenciamiento de SUNEDU.</p></div>
+            <div class="funcion-card"><i class="fas fa-check-circle icono"></i> <p>Otras que le asigne el director(a) del DECAA.</p></div>
+        </div>
     </div>
 </section>
 <?php include('includes/footer.php'); ?>

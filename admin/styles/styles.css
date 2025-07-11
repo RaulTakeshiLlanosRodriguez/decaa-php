@@ -1,0 +1,46 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.navegacion{
+    background-color: #d82f4b;
+}
+
+.navegacion a{
+    font-weight: bold;
+}
+
+h3,h4{
+    font-weight: bold;
+    color: #d82f4b;
+}
+
+.tabla-investigaciones th{
+    background-color: #d82f4b;
+    color: white;
+    text-align: center;
+}
+
+.modal-header{
+    background-color: #d82f4b;
+}
+
+.modal-header h5{
+    color: white;
+}
+
+.modal-content .btn-close {
+  filter: invert(1);
+}
+
+.btn-login{
+    background-color: #d82f4b;
+    color: white;
+}
+
+.btn-login:hover{
+    background: #d82f4b;
+    color: white;
+}
+
+

@@ -9,7 +9,7 @@
       <div class="contenido">
         <h4>Se conforman nuevos comités de calidad</h4>
         <p>Designación de equipos responsables de autoevaluación y mejora continua en todas las escuelas.</p>
-        <a href="<?= $BASE_URL ?>/comites-de-calidad.php">Leer más</a>
+        <a href="comites-de-calidad.php">Leer más</a>
       </div>
     </div>
 

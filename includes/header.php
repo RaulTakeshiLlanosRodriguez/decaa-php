@@ -1,6 +1,3 @@
-<?php
-  include_once __DIR__ . '/../config/config.php';
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,13 +7,13 @@
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="shortcut icon" href="<?= $BASE_URL ?>/assets/logo-favicon-uns.png" type="image/png">
-    <script type="module" src="<?= $BASE_URL ?>/js/main-simple.js"></script>
+    <link rel="shortcut icon" href="assets/logo-favicon-uns.png" type="image/png">
+    <script type="module" src="js/main-simple.js"></script>
 </head>
 <body>
     <header class="header">
     <div class="logo-area">
-      <img src="<?= $BASE_URL ?>/assets/logo-uns.png" alt="Logo UNS">
+      <img src="assets/logo-uns.png" alt="Logo UNS">
       <div class="office-name">
         DIRECCIÓN DE EVALUACIÓN DE LA CALIDAD ACADÉMICA Y ACREDITACIÓN
       </div>
@@ -25,29 +22,29 @@
     <nav class="main-nav" id="main-nav">
       <ul class="nav-menu">
         <li class="has-submenu">
-          <a href="<?= $BASE_URL ?>/index.php">INICIO</a>
+          <a href="index.php">INICIO</a>
         </li>
         <li class="has-submenu">
           <a href="#">NOSOTROS</a>
           <ul class="submenu">
-            <li><a href="<?= $BASE_URL ?>/decaa.php">Acerca del DECAA</a></li>
-            <li><a href="<?= $BASE_URL ?>/oseil.php">Oficina de Seguimiento al Egresado y de Inserción Laboral</a></li>
-            <li><a href="<?= $BASE_URL ?>/ogc.php">Oficina de Gestión de Calidad</a></li>
-            <li><a href="<?= $BASE_URL ?>/oaac.php">Oficina de Autoevaluación y Acreditación de la Calidad</a></li>
-            <li><a href="<?= $BASE_URL ?>/olic.php">Oficina de Licenciamiento</a></li>
+            <li><a href="decaa.php">Acerca del DECAA</a></li>
+            <li><a href="oseil.php">Oficina de Seguimiento al Egresado y de Inserción Laboral</a></li>
+            <li><a href="ogc.php">Oficina de Gestión de Calidad</a></li>
+            <li><a href="oaac.php">Oficina de Autoevaluación y Acreditación de la Calidad</a></li>
+            <li><a href="olic.php">Oficina de Licenciamiento</a></li>
           </ul>
         </li>
         <li class="has-submenu">
           <a href="#">INVESTIGACIONES</a>
           <ul class="submenu">
-            <li><a href="<?= $BASE_URL ?>/publicaciones.php">Publicaciones</a></li>
+            <li><a href="publicaciones.php">Publicaciones</a></li>
           </ul>
         </li>
         <li class="has-submenu">
           <a href="#">MEJORA CONTINUA</a>
           <ul class="submenu">
-            <li><a href="<?= $BASE_URL ?>/comites-de-calidad.php">Cómites de calidad</a></li>
-            <li><a href="<?= $BASE_URL ?>/acreditacion.php">Acreditación</a></li>
+            <li><a href="comites-de-calidad.php">Cómites de calidad</a></li>
+            <li><a href="acreditacion.php">Acreditación</a></li>
           </ul>
         </li>
       </ul>

@@ -655,19 +655,30 @@ circle:nth-child(1) {
 }
 
 .comite-box {
-  background: #fff;
-  border: 1px solid #ddd;
-  border-radius: 10px;
-  padding: 20px;
+  background: #ffffff;
+  border: 1px solid #eaeaea;
+  border-radius: 16px;
+  padding: 24px 32px;
   margin-bottom: 30px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
+
+.comite-box:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+}
+
 
 .titulo-carrera {
   color: #a50136;
-  font-weight: 700;
-  font-size: 1.2rem;
-  margin-bottom: 15px;
+  font-weight: 800;
+  font-size: 1.3rem;
+  margin-bottom: 20px;
+  border-left: 6px solid #a50136;
+  padding-left: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
 }
 
 .tabla-comite {
@@ -675,11 +686,24 @@ circle:nth-child(1) {
   border-collapse: collapse;
 }
 
-.tabla-comite td {
-  padding: 10px 12px;
-  border-bottom: 1px solid #e0e0e0;
-  vertical-align: top;
+.tabla-comite tr {
+  border-bottom: 1px solid #f0f0f0;
 }
+
+.tabla-comite td {
+  padding: 12px 8px;
+  vertical-align: middle;
+  font-size: 0.95rem;
+  color: #333;
+}
+
+.tabla-comite td:first-child {
+  font-weight: 600;
+  color: #a50136;
+  width: 30%;
+  text-transform: uppercase;
+}
+
 
 /*seccion oaac*/
 
@@ -773,8 +797,6 @@ circle:nth-child(1) {
   background-color: #ffe5ea;
   transform: translateX(4px);
 }
-
-
 
 /*seccion responsive*/
 @media (max-width: 768px) {
