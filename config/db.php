@@ -1,8 +1,8 @@
 <?php
-$host = 'localhost';
-$db = 'bd_admin_investigaciones';
-$user = 'root';
-$pass = '';
+$host = 'sql309.byetcluster.com';
+$db = 'if0_39440739_bd_admin_investigaciones';
+$user = 'if0_39440739';
+$pass = 'hBY1kdUXK1s';
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
